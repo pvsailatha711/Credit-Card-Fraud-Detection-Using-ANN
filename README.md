@@ -82,29 +82,6 @@ The model excels at identifying fraudulent transactions with a 94% recall rate, 
 - **NumPy**: Numerical computations
 - **Matplotlib/Seaborn**: Data visualization
 
-## Future Improvements
-
-Potential enhancements to improve model performance:
-
-1. **Class Balancing Techniques**: Implement SMOTE, undersampling, or class weights to address data imbalance
-2. **Hyperparameter Tuning**: Optimize network architecture, learning rate, and batch size
-3. **Advanced Architectures**: Experiment with deeper networks, dropout layers, or ensemble methods
-4. **Threshold Optimization**: Adjust classification threshold to balance precision and recall
-5. **Feature Engineering**: Explore additional feature interactions or transformations
-
-## Usage
-
-To run this project:
-
-1. Clone the repository
-2. Install required dependencies: `pip install tensorflow pandas numpy scikit-learn matplotlib seaborn`
-3. Download the credit card dataset (creditcard.csv)
-4. Open and run the Jupyter notebook: `180030350-credit-card-fraud-detection-using-ann.ipynb`
-
-## License
-
-This project is available for educational and research purposes.
-
 ## Acknowledgments
 
 Dataset sourced from Kaggle's Credit Card Fraud Detection dataset, containing anonymized credit card transactions from European cardholders.
